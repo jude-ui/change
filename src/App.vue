@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h2>태그 치환하기 - 12</h2>
+    <h2>태그 치환하기 - 1</h2>
     <div class="group_inp">
       <input
         type="text"
